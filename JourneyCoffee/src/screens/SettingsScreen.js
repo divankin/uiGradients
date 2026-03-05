@@ -151,7 +151,7 @@ export function SettingsScreen() {
           size="medium"
           onPress={() =>
             Linking.openURL(
-              'https://www.journeycoffeeroasters.com?utm_source=journey_app&utm_medium=mobile&utm_campaign=settings',
+              'https://www.journeyroasters.com?utm_source=journey_app&utm_medium=mobile&utm_campaign=settings',
             )
           }
           style={{ marginBottom: spacing.sm }}

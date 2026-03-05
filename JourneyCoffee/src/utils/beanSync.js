@@ -15,7 +15,7 @@
  *    CDN/API service.
  *
  *    Expected endpoint format:
- *    GET https://www.journeycoffeeroasters.com/api/beans.json
+ *    GET https://www.journeyroasters.com/api/beans.json
  *    (or a similar URL serving structured JSON)
  *
  * 3. SCRAPING FALLBACK: If no dedicated API is available, a server-side
@@ -35,7 +35,7 @@ import { SEED_BEANS } from '../data/beans';
 import { saveBeanCatalog, loadBeanCatalog } from './storage';
 
 const BEAN_CATALOG_URL =
-  'https://www.journeycoffeeroasters.com/api/beans.json';
+  'https://www.journeyroasters.com/api/beans.json';
 
 /**
  * Attempt to sync the bean catalog from the remote source.
@@ -106,7 +106,7 @@ export function parseProductListingHTML(html) {
 
   let match;
   while ((match = productPattern.exec(html)) !== null) {
-    const url = `https://www.journeycoffeeroasters.com${match[1]}`;
+    const url = `https://www.journeyroasters.com${match[1]}`;
     const title = match[2].replace(/<[^>]+>/g, '').trim();
 
     if (title) {

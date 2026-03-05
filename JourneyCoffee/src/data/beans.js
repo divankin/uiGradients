@@ -8,7 +8,7 @@ export const SEED_BEANS = [
   {
     id: 'bean-ethiopia-yirgacheffe',
     title: 'Ethiopia Yirgacheffe',
-    url: 'https://www.journeycoffeeroasters.com/products/ethiopia-yirgacheffe',
+    url: 'https://www.journeyroasters.com/products/ethiopia-yirgacheffe',
     description:
       'A bright, aromatic coffee with floral notes and a clean, citrusy finish. Grown at high altitude in the birthplace of coffee.',
     roastLevel: 'light',
@@ -21,7 +21,7 @@ export const SEED_BEANS = [
   {
     id: 'bean-colombia-huila',
     title: 'Colombia Huila',
-    url: 'https://www.journeycoffeeroasters.com/products/colombia-huila',
+    url: 'https://www.journeyroasters.com/products/colombia-huila',
     description:
       'A well-balanced, sweet coffee with notes of caramel, stone fruit, and a smooth, medium body. A versatile crowd-pleaser.',
     roastLevel: 'medium',
@@ -34,7 +34,7 @@ export const SEED_BEANS = [
   {
     id: 'bean-guatemala-antigua',
     title: 'Guatemala Antigua',
-    url: 'https://www.journeycoffeeroasters.com/products/guatemala-antigua',
+    url: 'https://www.journeyroasters.com/products/guatemala-antigua',
     description:
       'Rich and chocolatey with a hint of spice and brown sugar sweetness. A comforting cup that shines in immersion brewing.',
     roastLevel: 'medium-dark',
@@ -47,7 +47,7 @@ export const SEED_BEANS = [
   {
     id: 'bean-kenya-aa',
     title: 'Kenya AA',
-    url: 'https://www.journeycoffeeroasters.com/products/kenya-aa',
+    url: 'https://www.journeyroasters.com/products/kenya-aa',
     description:
       'Vibrant and complex with blackcurrant, grapefruit, and a juicy body. A standout single-origin for those who love bright coffees.',
     roastLevel: 'medium-light',
@@ -60,7 +60,7 @@ export const SEED_BEANS = [
   {
     id: 'bean-sumatra-mandheling',
     title: 'Sumatra Mandheling',
-    url: 'https://www.journeycoffeeroasters.com/products/sumatra-mandheling',
+    url: 'https://www.journeyroasters.com/products/sumatra-mandheling',
     description:
       'Full-bodied and earthy with deep notes of dark chocolate, cedar, and a lingering finish. Perfect for lovers of bold, heavy coffee.',
     roastLevel: 'dark',
@@ -73,7 +73,7 @@ export const SEED_BEANS = [
   {
     id: 'bean-costa-rica-tarrazu',
     title: 'Costa Rica Tarrazu',
-    url: 'https://www.journeycoffeeroasters.com/products/costa-rica-tarrazu',
+    url: 'https://www.journeyroasters.com/products/costa-rica-tarrazu',
     description:
       'Honey-sweet with bright apple acidity and a clean, refined finish. A beautifully balanced coffee that works with almost any brew method.',
     roastLevel: 'medium-light',
@@ -86,7 +86,7 @@ export const SEED_BEANS = [
   {
     id: 'bean-brazil-santos',
     title: 'Brazil Santos',
-    url: 'https://www.journeycoffeeroasters.com/products/brazil-santos',
+    url: 'https://www.journeyroasters.com/products/brazil-santos',
     description:
       'Smooth and nutty with low acidity and a creamy body. Notes of milk chocolate and hazelnut make this an easy-drinking everyday coffee.',
     roastLevel: 'medium',
@@ -99,7 +99,7 @@ export const SEED_BEANS = [
   {
     id: 'bean-journey-house-blend',
     title: 'Journey House Blend',
-    url: 'https://www.journeycoffeeroasters.com/products/house-blend',
+    url: 'https://www.journeyroasters.com/products/house-blend',
     description:
       'Our signature blend crafted for everyday enjoyment. Balanced, sweet, and approachable with notes of chocolate, caramel, and a hint of dried fruit.',
     roastLevel: 'medium',

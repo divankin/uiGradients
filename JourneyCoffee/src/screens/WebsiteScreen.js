@@ -5,7 +5,7 @@ import { useTheme } from '../context/ThemeContext';
 import { Card, Button } from '../components';
 import { spacing } from '../theme/spacing';
 
-const BASE_URL = 'https://www.journeycoffeeroasters.com';
+const BASE_URL = 'https://www.journeyroasters.com';
 const UTM = '?utm_source=journey_app&utm_medium=mobile&utm_campaign=website_section';
 
 const LINKS = [

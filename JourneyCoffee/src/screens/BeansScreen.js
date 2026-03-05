@@ -112,7 +112,7 @@ export function BeansScreen({ navigation }) {
 
       {/* Shop CTA */}
       <Card
-        onPress={() => Linking.openURL('https://www.journeycoffeeroasters.com' + UTM_PARAMS)}
+        onPress={() => Linking.openURL('https://www.journeyroasters.com' + UTM_PARAMS)}
         style={[styles.ctaCard, { backgroundColor: theme.primary }]}
       >
         <Ionicons name="globe-outline" size={28} color={theme.textOnPrimary} />
