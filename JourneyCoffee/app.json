@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "Journey Brewing Companion",
+    "slug": "journey-brewing-companion",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "backgroundColor": "#1B4332"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.journeycoffeeroasters.brewingcompanion"
+    },
+    "android": {
+      "package": "com.journeycoffeeroasters.brewingcompanion",
+      "adaptiveIcon": {
+        "backgroundColor": "#1B4332"
+      }
+    }
+  }
+}
